@@ -1,7 +1,7 @@
 {
-  "name": "sequelize-auto",
-  "version": "0.4.29",
-  "description": "Automatically generate bare sequelize models from your database.",
+  "name": "@ali/sequelize-auto-graphql",
+  "version": "0.0.1",
+  "description": "based on sequelize-auto tool, add graphql schema output.",
   "main": "index",
   "keywords": [
     "mysql",
