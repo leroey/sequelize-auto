@@ -1,6 +1,6 @@
 {
   "name": "@ali/sequelize-auto-graphql",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "based on sequelize-auto tool, add graphql schema output.",
   "main": "index",
   "keywords": [
