@@ -1,6 +1,6 @@
 {
   "name": "@ali/sequelize-auto-graphql",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "based on sequelize-auto tool, add graphql schema output.",
   "main": "index",
   "keywords": [
@@ -68,5 +68,8 @@
     "pg-hstore": "^2.3.2",
     "sqlite3": "^4.0.0",
     "tedious": "^2.0.0"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npm.alibaba-inc.com"
   }
 }
